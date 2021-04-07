@@ -1,4 +1,5 @@
 # Exercício Python 008: Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+
 dis = float(input('Uma distância em metros: '))
 print(f'A medida de {dis}m corresponde a')
 print(str(dis/1000) + 'km')
